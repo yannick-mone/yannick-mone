@@ -11,7 +11,6 @@
 
 🎥 [TaskFlow](https://github.com/Yayan-thebest/taskflow) — a Project Manager – Jira-type clone
 
-Check out my coding [Portfolio](https://yannickmone.vercel.app/fr)!
 
 
 #
